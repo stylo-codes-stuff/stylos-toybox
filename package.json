@@ -14,9 +14,6 @@
     "dev": "yarn parcel src/index.html"
   },
   "dependencies": {
-    "@angular/cli": "^17.0.10",
-    "@angular/common": "^17.0.9",
-    "@angular/core": "^17.0.9",
-    "ng": "^0.0.0"
+    "bulma": "^0.9.4"
   }
 }
